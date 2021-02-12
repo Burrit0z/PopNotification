@@ -1,0 +1,9 @@
+Package: com.burritoz.popnotification
+Name: Pop Notification
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: One click to open your notifications with passcode disabled
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Depends: mobilesubstrate
